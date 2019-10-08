@@ -1,11 +1,16 @@
-.pipes {
+.pipes { 
+width: 10px;
 
 
 }
 
+#mario {
+   width: 250px;
+    
+}
 
-#mario { 
-width: 300px;
-height: 200px;
-  
+
+.text{
+    text-align: center;
+    text-size-adjust: 100px;
 }
