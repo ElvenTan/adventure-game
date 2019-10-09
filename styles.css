@@ -1,16 +1,17 @@
-.pipes { 
-width: 10px;
 
 
-}
+
+
 
 #mario {
    width: 250px;
+   position: absolute;
+   bottom: 230px;
     
 }
 
 
 .text{
-    text-align: center;
-    text-size-adjust: 100px;
+  position: absolute;
+
 }
